@@ -1,0 +1,26 @@
+.header {
+    background: rgb(246, 237, 220);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    margin: 8px;
+    background: white;
+    padding: 8px;
+}
+
+.logo {
+    color: red;
+    font-size: x-large;
+    background: white;
+    padding: 8px;
+}
